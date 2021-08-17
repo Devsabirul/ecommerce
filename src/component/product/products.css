@@ -1,0 +1,9 @@
+img.card-img-top {
+    width: 60%;
+    margin: 0 auto;
+}
+.card-price{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(238, 74, 74);
+}

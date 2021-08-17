@@ -1,0 +1,11 @@
+#container_login{
+    border:1px solid rgb(231, 231, 231);
+    padding: 50px;
+}
+.btn {
+    padding-right: 30px;
+    padding-left: 50px;
+}
+form input{
+    padding: 5px;
+}

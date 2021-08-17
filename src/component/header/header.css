@@ -1,0 +1,13 @@
+.navbar-collapse ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.navbar-collapse a:hover{
+    color: cyan;
+}
+.navbar-collapse a span {
+    color:red;
+    font-size: 14px;
+    font-weight: bold
+}
